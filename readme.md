@@ -1,10 +1,10 @@
 # Journal Index
 
-## What's contains in Here ?
-- Open Access Journal
-- Paper
-- Handbook
-- Blog
+## Table of Contain
+- [Open Access Journal](https://github.com/RFebrians/index-journal#open-access-journal)
+- [Paper](https://github.com/RFebrians/index-journal#paper)
+- [Handbook](https://github.com/RFebrians/index-journal#handbook)
+- [Blog](https://github.com/RFebrians/index-journal#blog)
 
 ## Open Access Journal
 
@@ -28,6 +28,9 @@ Mentor : Noviar Endru Ferguson
 - [Tinjauan Sejarah Aikido](https://drive.google.com/file/d/1sDsbQHWS-3So7yYHUvi8odZJvE_xoxtX/view?usp=sharing)
 - [E-Books](https://drive.google.com/drive/folders/1MQSoYfRIXHbOroCRnpOD4XKFm0VJCdwT?usp=sharing)
 - [Daito Ryu Jujutsu](https://drive.google.com/drive/folders/1jf4b_oKp5cejdaRPKdyfiSEoQ9dr6JKx?usp=sharing)
+
+## Handbook
+- [React Learning Handbooks](https://github.com/RFebrians/react-learning-handbooks)
 
 ## Blog
 #### English
